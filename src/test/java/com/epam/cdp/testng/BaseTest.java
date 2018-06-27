@@ -1,16 +1,19 @@
-package com.epam.cdp;
+package com.epam.cdp.testng;
 
 import com.epam.tat.module4.Calculator;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
 
 public class BaseTest {
+
     protected Calculator calculator;
-    @BeforeClass
+
+    @BeforeMethod
     public void setUp() {
         calculator = new Calculator();
     }
-    @AfterClass
+
+    @AfterMethod
     public void tearDown() {
         calculator = null;
     }
