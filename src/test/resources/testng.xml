@@ -1,14 +1,42 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
 <suite name="Calculator Suite">
-    <test name="Sub Calculator Test" >
+    <test name="Long Test" >
+        <groups>
+            <run>
+                <include name="Long"/>
+            </run>
+        </groups>
         <classes>
             <class name="com.epam.cdp.testng.LongSubCalculatorTest"/>
+            <class name="com.epam.cdp.testng.DoubleSubCalculatorTest"/>
+            <class name="com.epam.cdp.testng.DoubleDivCalculatorTest"/>
+            <class name="com.epam.cdp.testng.DoubleMultCalculatorTest"/>
+            <class name="com.epam.cdp.testng.DoubleSumCalculatorTest"/>
+            <class name="com.epam.cdp.testng.LongDivCalculatorTest"/>
+            <class name="com.epam.cdp.testng.LongMultCalculatorTest"/>
+            <class name="com.epam.cdp.testng.LongSumCalculatorTest"/>
+            <class name="com.epam.cdp.testng.IsNegativeCalculatorTest"/>
+            <class name="com.epam.cdp.testng.IsPositiveCalculatorTest"/>
         </classes>
     </test>
-    <test name="Sum Calculator Test">
+    <test name="Double Test">
+        <groups>
+            <run>
+                <include name="Double"/>
+            </run>
+        </groups>
         <classes>
+            <class name="com.epam.cdp.testng.LongSubCalculatorTest"/>
+            <class name="com.epam.cdp.testng.DoubleSubCalculatorTest"/>
+            <class name="com.epam.cdp.testng.DoubleDivCalculatorTest"/>
+            <class name="com.epam.cdp.testng.DoubleMultCalculatorTest"/>
+            <class name="com.epam.cdp.testng.DoubleSumCalculatorTest"/>
+            <class name="com.epam.cdp.testng.LongDivCalculatorTest"/>
+            <class name="com.epam.cdp.testng.LongMultCalculatorTest"/>
             <class name="com.epam.cdp.testng.LongSumCalculatorTest"/>
+            <class name="com.epam.cdp.testng.IsNegativeCalculatorTest"/>
+            <class name="com.epam.cdp.testng.IsPositiveCalculatorTest"/>
         </classes>
     </test>
 </suite>

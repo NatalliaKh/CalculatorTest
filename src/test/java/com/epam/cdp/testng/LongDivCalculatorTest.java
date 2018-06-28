@@ -5,14 +5,13 @@ import org.testng.annotations.Test;
 
 public class LongDivCalculatorTest extends BaseTest {
 
-    @Test(description = "test 4 / 2")
+    @Test(description = "test 4 / 2", groups = "Long")
     public void testFourDivideTwo() {
         long result = calculator.div(4,2);
         Assert.assertEquals(result, 2, "Invalid result of div operation!");
     }
 
-    @Test(description = "test 2 / 0",
-            expectedExceptions = ArithmeticException.class)
+    @Test(description = "test 2 / 0", expectedExceptions = ArithmeticException.class, groups = "Long")
     public void testTwoDivideZero() {
         long result = calculator.div(2,0);
     }

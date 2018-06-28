@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Parallel Suite" parallel="methods" thread-count="2">
+    <test name="Parallel Test" >
+
+        <classes>
+            <class name="com.epam.cdp.testng.LongSubCalculatorTest"/>
+            <class name="com.epam.cdp.testng.DoubleSubCalculatorTest"/>
+            <class name="com.epam.cdp.testng.DoubleDivCalculatorTest"/>
+            <class name="com.epam.cdp.testng.DoubleMultCalculatorTest"/>
+            <class name="com.epam.cdp.testng.DoubleSumCalculatorTest"/>
+            <class name="com.epam.cdp.testng.LongDivCalculatorTest"/>
+            <class name="com.epam.cdp.testng.LongMultCalculatorTest"/>
+            <class name="com.epam.cdp.testng.LongSumCalculatorTest"/>
+            <class name="com.epam.cdp.testng.IsNegativeCalculatorTest"/>
+            <class name="com.epam.cdp.testng.IsPositiveCalculatorTest"/>
+        </classes>
+    </test>
+</suite>

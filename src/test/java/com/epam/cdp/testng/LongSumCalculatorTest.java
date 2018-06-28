@@ -6,7 +6,7 @@ import org.testng.annotations.*;
 
 public class LongSumCalculatorTest extends BaseTest {
 
-    @Test(dataProvider = "valuesForSumTest", description = "test sum")
+    @Test(dataProvider = "valuesForSumTest", description = "test sum", groups = "Long")
     public void  testSum(long a, long b, long expectedValue) {
         long result = calculator.sum(a, b);
         Assert.assertEquals(result, expectedValue, "Invalid result of sum operation!");

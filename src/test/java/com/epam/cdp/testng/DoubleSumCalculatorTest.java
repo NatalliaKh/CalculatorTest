@@ -7,7 +7,7 @@ public class DoubleSumCalculatorTest extends BaseTest {
 
     private final double epsilon = 0.0000000001;
 
-    @Test(dataProvider = "valuesForSumTest", description = "test sum")
+    @Test(dataProvider = "valuesForSumTest", description = "test sum", groups = "Double")
     public void  testSum(double a, double b, double expectedValue) {
         double result = calculator.sum(a, b);
         Assert.assertTrue(Math.abs(result - expectedValue) < epsilon, "Invalid result of sum operation!");
