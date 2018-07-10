@@ -13,9 +13,8 @@ public class SqrtCalculatorTest extends BaseTest {
         assertEquals("Invalid result of sqrt operation!", 2.0, result, epsilon);
     }
 
-    @Test
+    @Test(expected = Exception.class)
     public void testSqrtOfNegativeValue() {
-        double result = calculator.sqrt(-4);
-        assertTrue("Invalid result of sqrt operation: NaN value is expected!", Double.isNaN(result));
+        calculator.sqrt(-4);
     }
 }
