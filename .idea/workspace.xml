@@ -1,31 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59824f1e-d738-4807-bfe6-4be8f24be845" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/CosCalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/CtgCalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/SinCalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/SqrtCalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/TgCalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/IsNegativeCalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/IsPositiveCalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/parallelMode.xml" afterDir="false" />
+    <list default="true" id="6ea0c27b-1e79-48ca-a7ea-812673178f79" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/calculator_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org_testng_testng_6_14_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/SumCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/PowCalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DoubleDivCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DoubleDivCalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DoubleMultCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DoubleMultCalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DoubleSubCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DoubleSubCalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DoubleSumCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DoubleSumCalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/LongDivCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/LongDivCalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/LongMultCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/LongMultCalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/LongSubCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/LongSubCalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/LongSumCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/LongSumCalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,19 +23,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/CalculatorTest$SubCalculatorTest.ic" NAME="SubCalculatorTest Coverage Results" MODIFIED="1529871434484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.epam.cdp.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/CalculatorTest$_default_.ic" NAME="&lt;default&gt; Coverage Results" MODIFIED="1530127018180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file leaf-file-name="CosCalculatorTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/CosCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="119">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -57,8 +40,26 @@
       <file leaf-file-name="PowCalculatorTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/PowCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="34">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/BaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,74 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SqrtCalculatorTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/SqrtCalculatorTest.java">
+      <file leaf-file-name="BaseTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/BaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DoubleMultCalculatorTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DoubleMultCalculatorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongDivCalculatorTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/LongDivCalculatorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#555#556#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DoubleDivCalculatorTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DoubleDivCalculatorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#632#633#0" expanded="true" />
-                <element signature="e#685#686#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="parallelMode.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/parallelMode.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TgCalculatorTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/TgCalculatorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -141,35 +79,13 @@
       <file leaf-file-name="CtgCalculatorTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/CtgCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="FxmlFile" />
-        <option value="Class" />
-        <option value="XML TestNG File" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>sin</find>
-      <find>sin(</find>
-      <find>tanh(</find>
-    </findStrings>
-    <dirStrings>
-      <dir>D:\Natallia\Projects\CalculatorTest</dir>
-    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -178,38 +94,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/cdp/BaseTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/cdp/SubCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/TestNG.fxml" />
-        <option value="$PROJECT_DIR$/src/test/resources/testng.xml.fxml" />
-        <option value="$PROJECT_DIR$/src/test/resources/testng.fxml" />
-        <option value="$PROJECT_DIR$/src/test/resources/dfgdfg.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/cdp/SumCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/SumCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/SubCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DoubleSumCalculator.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/SumCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/BaseTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/PowCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/SqrtCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/TgCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/CtgCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/CosCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/SinCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DoubleDivCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DoubleMultCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DoubleSubCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DoubleSumCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/LongDivCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/LongMultCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/LongSubCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/LongSumCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/BaseTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/IsPositiveCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/IsNegativeCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/testng.xml" />
-        <option value="$PROJECT_DIR$/src/test/resources/parallelMode.xml" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -218,12 +110,12 @@
     <option name="width" value="955" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -236,19 +128,6 @@
               <item name="CalculatorTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="CalculatorTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CalculatorTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CalculatorTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CalculatorTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CalculatorTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CalculatorTest" type="b2602c69:ProjectViewProjectNode" />
@@ -298,29 +177,18 @@
             </path>
             <path>
               <item name="CalculatorTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="CalculatorTest" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CalculatorTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="calculator-1.0.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CalculatorTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="calculator-1.0.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="module4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CalculatorTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="calculator-1.0.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -328,10 +196,10 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="last_opened_file_path" value="D:/Downloads/calculator-1.0.jar!/" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.34367815" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -345,9 +213,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestNG in CalculatorTest">
+  <component name="RunManager" selected="TestNG.D:/Natallia/Projects/CalculatorTest/src/test/resources/parallelMode.xml">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="JUnit tests" type="JUnit" factoryName="JUnit">
+      <module name="CalculatorTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.cdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.epam.cdp" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -365,40 +256,16 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="junit in CalculatorTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <configuration name="D:/Natallia/Projects/CalculatorTest/src/test/resources/parallelMode.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="CalculatorTest" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/parallelMode.xml" />
       <option name="PACKAGE_NAME" />
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="directory" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <dir value="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit" />
-      <patterns />
-    </configuration>
-    <configuration name="DoubleSumCalculatorTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="CalculatorTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.epam.cdp.testng.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.epam.cdp.testng" />
-      <option name="MAIN_CLASS_NAME" value="com.epam.cdp.testng.DoubleSumCalculatorTest" />
-      <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -412,58 +279,18 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="TestNG Parallel configuration" type="TestNG" factoryName="TestNG">
+    <configuration name="TestNG tests" type="TestNG" factoryName="TestNG">
       <module name="CalculatorTest" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/parallelMode.xml" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="TestNG configuration" type="TestNG" factoryName="TestNG">
-      <module name="CalculatorTest" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="TestNG in CalculatorTest" type="TestNG" factoryName="TestNG">
-      <module name="CalculatorTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.cdp.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.epam.cdp.junit" />
       <option name="MAIN_CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="GROUP_NAME" value="" />
@@ -504,15 +331,13 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.junit in CalculatorTest" />
-      <item itemvalue="TestNG.TestNG Parallel configuration" />
-      <item itemvalue="TestNG.TestNG configuration" />
-      <item itemvalue="TestNG.TestNG in CalculatorTest" />
-      <item itemvalue="TestNG.DoubleSumCalculatorTest" />
+      <item itemvalue="JUnit.JUnit tests" />
+      <item itemvalue="TestNG.TestNG tests" />
+      <item itemvalue="TestNG.D:/Natallia/Projects/CalculatorTest/src/test/resources/parallelMode.xml" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.DoubleSumCalculatorTest" />
+        <item itemvalue="TestNG.D:/Natallia/Projects/CalculatorTest/src/test/resources/parallelMode.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -521,421 +346,101 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="59824f1e-d738-4807-bfe6-4be8f24be845" name="Default" comment="" />
-      <created>1529860591935</created>
+      <changelist id="6ea0c27b-1e79-48ca-a7ea-812673178f79" name="Default" comment="" />
+      <created>1531241197897</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1529860591935</updated>
+      <updated>1531241197897</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestNG_Parallel_configuration - 2018.06.28 at 23h 19m 53s.xml">
-      <configuration name="TestNG Parallel configuration" configurationId="TestNG" />
+    <history-entry file="CosCalculatorTest - 2018.07.10 at 19h 58m 13s.xml">
+      <configuration name="CosCalculatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestNG_in_CalculatorTest - 2018.06.28 at 23h 20m 25s.xml">
-      <configuration name="TestNG in CalculatorTest" configurationId="TestNG" />
+    <history-entry file="com_epam_cdp_junit - 2018.07.10 at 19h 58m 23s.xml">
+      <configuration name="com.epam.cdp.junit" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestNG_Parallel_configuration - 2018.06.28 at 23h 20m 43s.xml">
-      <configuration name="TestNG Parallel configuration" configurationId="TestNG" />
+    <history-entry file="com_epam_cdp_testng - 2018.07.10 at 19h 58m 58s.xml">
+      <configuration name="com.epam.cdp.testng" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="junit_in_CalculatorTest - 2018.06.28 at 23h 23m 34s.xml">
-      <configuration name="junit in CalculatorTest" configurationId="JUnit" />
+    <history-entry file="com_epam_cdp_junit - 2018.07.10 at 19h 59m 57s.xml">
+      <configuration name="com.epam.cdp.junit" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestNG_in_CalculatorTest - 2018.06.28 at 23h 29m 20s.xml">
-      <configuration name="TestNG in CalculatorTest" configurationId="TestNG" />
+    <history-entry file="com_epam_cdp_junit - 2018.07.10 at 20h 00m 57s.xml">
+      <configuration name="com.epam.cdp.junit" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="junit_in_CalculatorTest - 2018.06.28 at 23h 33m 14s.xml">
-      <configuration name="junit in CalculatorTest" configurationId="JUnit" />
+    <history-entry file="CosCalculatorTest - 2018.07.10 at 20h 01m 43s.xml">
+      <configuration name="CosCalculatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DoubleSumCalculatorTest - 2018.06.28 at 23h 40m 08s.xml">
-      <configuration name="DoubleSumCalculatorTest" configurationId="TestNG" />
+    <history-entry file="CtgCalculatorTest - 2018.07.10 at 20h 01m 51s.xml">
+      <configuration name="CtgCalculatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestNG_Parallel_configuration - 2018.06.28 at 23h 40m 53s.xml">
-      <configuration name="TestNG Parallel configuration" configurationId="TestNG" />
+    <history-entry file="PowCalculatorTest - 2018.07.10 at 20h 01m 58s.xml">
+      <configuration name="PowCalculatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="junit_in_CalculatorTest - 2018.06.28 at 23h 42m 33s.xml">
-      <configuration name="junit in CalculatorTest" configurationId="JUnit" />
+    <history-entry file="com_epam_cdp_in_CalculatorTest - 2018.07.10 at 20h 04m 35s.xml">
+      <configuration name="com.epam.cdp in CalculatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestNG_in_CalculatorTest - 2018.06.28 at 23h 46m 33s.xml">
-      <configuration name="TestNG in CalculatorTest" configurationId="TestNG" />
+    <history-entry file="com_epam_cdp_in_CalculatorTest - 2018.07.10 at 20h 13m 41s.xml">
+      <configuration name="com.epam.cdp in CalculatorTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info id="DB Browser" order="7" />
-      <window_info anchor="bottom" id="Messages" order="4" weight="0.32897604" />
-      <window_info anchor="right" id="Palette&#9;" order="1" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="DB Execution Console" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.52832246" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.20788912" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.39978212" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Coverage" order="5" side_tool="true" visible="true" weight="0.32942432" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="DB Browser" />
+      <window_info anchor="bottom" id="Messages" weight="0.32897604" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="bottom" id="DB Execution Console" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DoubleDivCalculatorTest.java</url>
-          <line>16</line>
-          <properties />
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="8" />
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/LongSubCalculatorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/PowCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" lean-forward="true" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Downloads/calculator-1.0.jar!/com/epam/tat/module4/Calculator.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/BaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/LongDivCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" column="5" lean-forward="true" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DoubleDivCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Downloads/calculator-1.0.jar!/com/epam/tat/module4/Timeout.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/LongMultCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="39" lean-forward="true" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DoubleSubCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DoubleMultCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/LongSubCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/BaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/LongSumCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/AppTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/cdp/App.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/resources/dfgdfg.xml" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/annotations/BeforeTest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/lang/Double.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="1015" column="22" selection-start-line="1015" selection-start-column="22" selection-end-line="1015" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Downloads/calculator-1.0.jar!/com/epam/tat/module4/Timeout.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/Assert.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/Test.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="668">
-          <caret line="2014" column="30" selection-start-line="2014" selection-start-column="25" selection-end-line="2014" selection-end-column="30" />
-          <folding>
-            <element signature="e#17923#17924#0" expanded="true" />
-            <element signature="e#18006#18007#0" expanded="true" />
-            <element signature="e#78034#78035#0" expanded="true" />
-            <element signature="e#78075#78076#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/SinCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/LongMultCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/LongSubCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/LongSumCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="86" selection-start-line="8" selection-start-column="86" selection-end-line="8" selection-end-column="86" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/IsPositiveCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="2" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/IsNegativeCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/BaseTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/CosCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DoubleSubCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DoubleSumCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/parallelMode.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/TgCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -944,85 +449,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/CtgCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/test/resources/calculator-1.0.jar!/com/epam/tat/module4/Calculator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/PowCalculatorTest.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/SqrtCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DoubleMultCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/LongDivCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Downloads/calculator-1.0.jar!/com/epam/tat/module4/Calculator.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
-          <folding>
-            <element signature="e#867#868#0" expanded="true" />
-            <element signature="e#895#896#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/CosCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DoubleDivCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -1090,7 +542,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>junit:junit:4.11</last-edited>
+          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
