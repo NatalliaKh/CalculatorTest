@@ -1,19 +1,23 @@
 package com.epam.cdp.testng;
 
 import org.testng.Assert;
+import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 public class LongSubCalculatorTest extends BaseTest {
 
-    @Test(description = "test 2 - 1", groups = "Long")
-    public void testTwoMinusOne() {
-        long result = calculator.sub(2,1);
-        Assert.assertEquals(result, 1, "Invalid result of sub operation!");
+    @DataProvider(name = "valuesForSubTest")
+    public Object[][] valuesForSub() {
+        return new Object[][]{
+                {2, 1, 1},
+                {0, 0, 0},
+        };
     }
 
-    @Test(description = "test 0 - 0", groups = "Long")
-    public void testZeroMinusZero() {
-        long result = calculator.sub(0,0);
-        Assert.assertEquals(result, 0, "Invalid result of sub operation!");
+    @Test(dataProvider = "valuesForSubTest", description = "test sub", groups = "Long")
+    public void  testSub(long a, long b, long expectedValue) {
+        long result = calculator.sub(a, b);
+        Assert.assertEquals(expectedValue, result, "Invalid result of sub operation!");
     }
+
 }

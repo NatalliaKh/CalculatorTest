@@ -6,12 +6,6 @@ import org.testng.annotations.*;
 
 public class LongSumCalculatorTest extends BaseTest {
 
-    @Test(dataProvider = "valuesForSumTest", description = "test sum", groups = "Long")
-    public void  testSum(long a, long b, long expectedValue) {
-        long result = calculator.sum(a, b);
-        Assert.assertEquals(result, expectedValue, "Invalid result of sum operation!");
-    }
-
     @DataProvider(name = "valuesForSumTest")
     public Object[][] valuesForSum() {
         return new Object[][] {
@@ -23,4 +17,12 @@ public class LongSumCalculatorTest extends BaseTest {
                 {Long.MAX_VALUE, 1, Long.MIN_VALUE}
         };
     }
+
+    @Test(dataProvider = "valuesForSumTest", description = "test sum", groups = "Long")
+    public void  testSum(long a, long b, long expectedValue) {
+        long result = calculator.sum(a, b);
+        Assert.assertEquals(result, expectedValue, "Invalid result of sum operation!");
+    }
+
+
 }

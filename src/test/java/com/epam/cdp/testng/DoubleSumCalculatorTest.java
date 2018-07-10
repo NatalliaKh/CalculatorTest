@@ -7,12 +7,6 @@ public class DoubleSumCalculatorTest extends BaseTest {
 
     private final double epsilon = 0.0000000001;
 
-    @Test(dataProvider = "valuesForSumTest", description = "test sum", groups = "Double")
-    public void  testSum(double a, double b, double expectedValue) {
-        double result = calculator.sum(a, b);
-        Assert.assertTrue(Math.abs(result - expectedValue) < epsilon, "Invalid result of sum operation!");
-    }
-
     @DataProvider(name = "valuesForSumTest")
     public Object[][] valuesForSum() {
         return new Object[][] {
@@ -22,5 +16,11 @@ public class DoubleSumCalculatorTest extends BaseTest {
                 {-1.5, 10.9, 9.4},
                 {-3.5, -4.2, -7.7}
         };
+    }
+
+    @Test(dataProvider = "valuesForSumTest", description = "test sum", groups = "Double")
+    public void  testSum(double a, double b, double expectedValue) {
+        double result = calculator.sum(a, b);
+        Assert.assertEquals(expectedValue, result, epsilon, "Invalid result of sum operation!");
     }
 }
