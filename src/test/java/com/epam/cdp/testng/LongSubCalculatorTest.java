@@ -17,7 +17,7 @@ public class LongSubCalculatorTest extends BaseTest {
     @Test(dataProvider = "valuesForSubTest", description = "test sub", groups = "Long")
     public void  testSub(long a, long b, long expectedValue) {
         long result = calculator.sub(a, b);
-        Assert.assertEquals(expectedValue, result, "Invalid result of sub operation!");
+        Assert.assertEquals(result, expectedValue, "Invalid result of sub operation!");
     }
 
 }

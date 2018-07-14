@@ -18,7 +18,7 @@ public class IsPositiveCalculatorTest extends BaseTest {
     @Test(dataProvider = "valuesForPositiveTest", description = "test positive")
     public void  testIsPositive(long a, boolean expectedValue) {
         boolean result = calculator.isPositive(a);
-        Assert.assertEquals(expectedValue, result, "Invalid result of isPositive operation!");
+        Assert.assertEquals(result, expectedValue, "Invalid result of isPositive operation!");
     }
 
 }

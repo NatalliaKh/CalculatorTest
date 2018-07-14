@@ -19,6 +19,6 @@ public class DoubleSubCalculatorTest extends BaseTest {
     @Test(dataProvider = "valuesForSubTest", description = "test sub", groups = "Double")
     public void  testSub(double a, double b, double expectedValue) {
         double result = calculator.sub(a, b);
-        Assert.assertEquals(expectedValue, result, epsilon, "Invalid result of sub operation!");
+        Assert.assertEquals(result, expectedValue, epsilon, "Invalid result of sub operation!");
     }
 }

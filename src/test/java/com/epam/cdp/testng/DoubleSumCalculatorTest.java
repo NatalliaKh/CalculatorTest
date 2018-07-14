@@ -21,6 +21,6 @@ public class DoubleSumCalculatorTest extends BaseTest {
     @Test(dataProvider = "valuesForSumTest", description = "test sum", groups = "Double")
     public void  testSum(double a, double b, double expectedValue) {
         double result = calculator.sum(a, b);
-        Assert.assertEquals(expectedValue, result, epsilon, "Invalid result of sum operation!");
+        Assert.assertEquals(result, expectedValue, epsilon, "Invalid result of sum operation!");
     }
 }

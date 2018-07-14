@@ -14,8 +14,8 @@ public class CtgCalculatorTest extends BaseTest {
     }
 
     @Test
-    public void testCtgPiDivideThree() {
-        double result = calculator.ctg(Math.PI / 3.0);
-        assertEquals("Invalid result of ctg operation!", 0.577350269189626, result, epsilon);
+    public void testCtgPiDivideTwo() {
+        double result = calculator.ctg(Math.PI /2.0);
+        assertEquals("Invalid result of ctg operation!", 0.0, result, epsilon);
     }
 }

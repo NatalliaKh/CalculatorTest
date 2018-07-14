@@ -14,7 +14,7 @@ public class PowCalculatorTest extends BaseTest {
 
     @Test
     public void testPowTwoPointOneInTwoPointOne() {
-        double result = calculator.pow(2.1, 2.1);
-        assertEquals("Invalid result of pow operation!", 4.74963809174224171568853059421, result, epsilon);
+        double result = calculator.pow(2, 1.5);
+        assertEquals("Invalid result of pow operation!", 2.8284271247462, result, epsilon);
     }
 }

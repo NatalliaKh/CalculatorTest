@@ -14,8 +14,8 @@ public class CosCalculatorTest extends BaseTest {
     }
 
     @Test
-    public void testCosPiDivideThree() {
-        double result = calculator.cos(Math.PI / 3.0);
-        assertEquals("Invalid result of cos operation!", 0.5, result, epsilon);
+    public void testCosPiDivideTwo() {
+        double result = calculator.cos(Math.PI / 2.0);
+        assertEquals("Invalid result of cos operation!", 0.0, result, epsilon);
     }
 }

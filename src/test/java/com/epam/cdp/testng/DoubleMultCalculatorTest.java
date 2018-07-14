@@ -19,6 +19,6 @@ public class DoubleMultCalculatorTest extends BaseTest {
     @Test(dataProvider = "valuesForMultTest", description = "test mult", groups = "Double")
     public void  testMult(double a, double b, double expectedValue) {
         double result = calculator.mult(a, b);
-        Assert.assertEquals(expectedValue, result, epsilon, "Invalid result of mult operation!");
+        Assert.assertEquals(result, expectedValue, epsilon, "Invalid result of mult operation!");
     }
 }
